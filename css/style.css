@@ -55,6 +55,15 @@
     color: white;
     cursor: pointer;
   }
+  .btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background: #4f46e5;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
   .about {
     padding: 3rem;
   }
